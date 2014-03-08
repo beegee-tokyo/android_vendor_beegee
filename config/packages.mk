@@ -14,7 +14,7 @@ PRODUCT_PACKAGES += \
 	libcyanogen-dsp \
 	audio_effects.conf \
 	MonthCalendarWidget \
-	SimpleExplorer
+	rom_stats
 
 PRODUCT_PACKAGES += \
 	CellBroadcastReceiver

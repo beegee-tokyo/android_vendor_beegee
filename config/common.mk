@@ -96,3 +96,6 @@ PRODUCT_COPY_FILES += \
 
 # Add our overlays
 PRODUCT_PACKAGE_OVERLAYS += vendor/beegee/overlay/common
+
+# Gapps packages
+$(call inherit-product, vendor/gapps/gapps-vendor-blobs.mk)
