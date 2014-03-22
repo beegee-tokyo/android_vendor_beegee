@@ -14,7 +14,8 @@ PRODUCT_PACKAGES += \
 	libcyanogen-dsp \
 	audio_effects.conf \
 	MonthCalendarWidget \
-	rom_stats
+	rom_stats \
+	OpenCamera
 
 PRODUCT_PACKAGES += \
 	CellBroadcastReceiver
